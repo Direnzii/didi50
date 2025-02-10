@@ -2,7 +2,7 @@ Metadata-Version: 2.2
 Name: didi50
 Version: 1.0.0
 Summary: didi50 é uma simples ferramenta de envio de requests em massa de forma assincrona usado para testar scalonamento de tasks, desempenho de servidores, entre outros... (Por sua conta em risco)
-Home-page: https://github.com/direnziii/didi50
+Home-page: https://github.com/direnzii/didi50
 Author: Thiago Direnzi
 Author-email: thiagodb13@gmail.com
 License: MIT

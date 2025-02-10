@@ -45,9 +45,6 @@ async def fetch_all(url_test, num):
             tasks.append(fetch(session=session, url_test=url_test, proxy=proxy))
         await asyncio.gather(*tasks)
 
-
-# url = " https://yqs4163l86.execute-api.sa-east-1.amazonaws.com/api/health"
 url = parametro_u
-# num_requests = 100000
 num_requests = parametro_q
 asyncio.run(fetch_all(url, num_requests))
