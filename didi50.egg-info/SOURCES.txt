@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+didi50/__init__.py
+didi50/didi50.py
+didi50/proxies.py
+didi50.egg-info/PKG-INFO
+didi50.egg-info/SOURCES.txt
+didi50.egg-info/dependency_links.txt
+didi50.egg-info/top_level.txt

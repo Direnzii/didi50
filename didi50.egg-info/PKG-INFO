@@ -1,0 +1,30 @@
+Metadata-Version: 2.2
+Name: didi50
+Version: 1.0.0
+Summary: didi50 é uma simples ferramenta de envio de requests em massa de forma assincrona usado para testar scalonamento de tasks, desempenho de servidores, entre outros... (Por sua conta em risco)
+Home-page: https://github.com/direnziii/didi50
+Author: Thiago Direnzi
+Author-email: thiagodb13@gmail.com
+License: MIT
+Project-URL: Código fonte, https://github.com/Direnzii/didi50
+Project-URL: Download, https://github.com/Direnzii/didi50
+Keywords: requests dos desempenho performance assync assincrono
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: Portuguese (Brazilian)
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Internationalization
+Classifier: Topic :: Scientific/Engineering :: Physics
+License-File: LICENSE.txt
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: project-url
+Dynamic: summary
+
+Com essa ferramenta voce pode indicar qual o "alvo", o numero de requests, e se vai usar proxy, dar enter e ver as varias requisições serem feitas, usado basicamente para testes de desempenho e afins.
