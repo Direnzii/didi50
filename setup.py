@@ -10,7 +10,7 @@ setup(
     long_description = 'Com essa ferramenta voce pode indicar qual o "alvo", o numero de requests, e se vai usar proxy,'
                         + ' dar enter e ver as varias requisições serem feitas, usado basicamente para testes de '
                         + 'desempenho e afins.',
-    url = 'https://github.com/direnziii/didi50',
+    url = 'https://github.com/direnzii/didi50',
     project_urls = {
         'Código fonte': 'https://github.com/Direnzii/didi50',
         'Download': 'https://github.com/Direnzii/didi50'
