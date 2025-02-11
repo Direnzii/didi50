@@ -2,14 +2,12 @@ from setuptools import setup
 
 setup(
     name = 'didi50',
-    version = '1.0.0',
+    version = '1.0.1',
     author = 'Thiago Direnzi',
     author_email = 'thiagodb13@gmail.com',
     packages = ['didi50'],
-    description = 'didi50 é uma simples ferramenta de envio de requests em massa de forma assincrona usado para testar scalonamento de tasks, desempenho de servidores, entre outros... (Por sua conta em risco)',
-    long_description = 'Com essa ferramenta voce pode indicar qual o "alvo", o numero de requests, e se vai usar proxy,'
-                        + ' dar enter e ver as varias requisições serem feitas, usado basicamente para testes de '
-                        + 'desempenho e afins.',
+    description = 'Is a simple and efficient tool for sending bulk asynchronous requests. It is ideal for testing task scalability, server performance, and other load analysis. (Use at your own risk.)',
+    long_description = 'With didi50, you can easily configure the "target" (destination address), set the number of requests to be sent, and choose whether to use proxies. Once the parameters are set, simply press Enter and watch multiple requests being sent simultaneously. The tool is primarily designed for performance testing, stress testing, and server capacity evaluation, but can also be used in other scenarios related to network traffic analysis.',
     url = 'https://github.com/direnzii/didi50',
     project_urls = {
         'Código fonte': 'https://github.com/Direnzii/didi50',
@@ -24,6 +22,7 @@ setup(
         'Natural Language :: Portuguese (Brazilian)',
         'Operating System :: OS Independent',
         'Topic :: Software Development :: Internationalization',
-        'Topic :: Scientific/Engineering :: Physics'
+        'Topic :: Scientific/Security :: DOS',
+        'Topic :: Test/QA :: Performance test'
     ]
 )
