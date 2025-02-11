@@ -21,8 +21,8 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Natural Language :: Portuguese (Brazilian)',
         'Operating System :: OS Independent',
-        'Topic :: Software Development :: Internationalization',
-        'Topic :: Scientific/Security :: DOS',
-        'Topic :: Test/QA :: Performance test'
+        'Topic :: Security',
+        'Topic :: Software Development :: Testing',
+        'Topic :: Software Development :: Testing :: Traffic Generation'
     ]
 )
