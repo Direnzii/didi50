@@ -66,7 +66,7 @@ python didi50.py --url http://example.com --qtd-request 100 --proxies
 
 ## License
 
-**didi50** is licensed under the [MIT License](LICENSE).
+**didi50** is licensed under the [MIT License](LICENSE.txt).
 
 ---
 
